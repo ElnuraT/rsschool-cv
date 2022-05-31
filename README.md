@@ -1,1 +1,1 @@
-# rsschool-cv
+https://github.com/ElnuraT/rsschool-cv/blob/rsschool-cv-html/index.html
